@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    J -- j@git.training -- @j
 
 # THANKS
 
