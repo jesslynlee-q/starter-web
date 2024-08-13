@@ -19,3 +19,4 @@ This is a simple web project, deployment can be on any web server.
 Fork repo
 
 ## Copyright
+2014 Git Training.
